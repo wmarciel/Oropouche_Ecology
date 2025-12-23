@@ -1,0 +1,12 @@
+"pretty_name","vars_removed","fit_aics","delta_AIC"
+"none","none",1622.30689045645,NA
+"Soil Water Regulation Ability (Normalized)","soil_waterreg_mean_normalized",1622.47937736824,0.172486911797705
+"Percent Cocoa Cultivation (Normalized)","pct_crop_cocoa_mean_normalized",1622.24569583011,-0.233681538129531
+"Proportion Landcover Built-up (Normalized)","lc_built_mean_normalized",1623.1408355402,0.895139710087051
+"Log 10 of Municipal Population (Normalized)","log10_pop_normalized",1622.60503987229,-0.53579566790745
+"Percent Soybean Cultivation (Normalized)","pct_crop_soybean_mean_normalized",1623.63241270827,1.02737283597617
+"Precipitation In Month With Least Precipitation In A Typical Year (Normalized)","annual_min_precip_normalized",1625.32009359697,1.68768088870343
+"Mean Vapor Pressure Over Month With Highest Humidity In A Typical Year (Normalized)","annual_max_vapr_normalized",1627.77124545309,2.45115185611235
+"Mean Daily High Temperature In Warmest Month In A Typical Year (Normalized)","annual_max_tempmax_normalized",1627.46503040881,-0.306215044271994
+"Mean Daily Low Temperature Over Typical Year (Normalized)","annual_mean_tempmin_normalized",1627.24734890826,-0.217681500552999
+"Mean Daily Average Temperature Over Typical Year (Normalized)","annual_mean_tempmean_normalized",1627.4956292494,0.24828034113375
